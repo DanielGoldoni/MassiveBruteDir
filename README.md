@@ -7,7 +7,9 @@
 # Funcionalidades 
  Carregamento de Alvos e Wordlists: Lê listas de URLs de alvos e de diretórios a partir de arquivos de texto externos (pode-se usar outras wordlsits), permitindo   
  fácil atualização.
+ 
  Verificação Paralela: Utiliza cURL para realizar verificações em paralelo, aumentando a eficiência da pesquisa.
+ 
  Relatório de Resultados: Reporta URLs de diretórios encontrados que estão presentes nos sites alvos.
 
 # Instalação e uso
