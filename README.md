@@ -12,5 +12,6 @@
 
 # Instalação e uso
   git clone https://github.com/DanielGoldoni/MassiveBruteDir && cd MassiveBruteDir
+  
   php MassiveBruteDir.php
   
